@@ -1,6 +1,6 @@
 # Barion Pixel for WooCommerce
 
-Complete Barion Pixel implementation for WooCommerce that tracks all mandatory events according to [Barion's documentation](https://docs.barion.com/Getting_started_with_the_Barion_Pixel).
+Complete Full Barion Pixel implementation for WooCommerce that tracks all mandatory events according to [Barion's documentation](https://docs.barion.com/Getting_started_with_the_Barion_Pixel).
 
 ---
 
