@@ -205,5 +205,5 @@ Please consider donating. 🙏
 
 ## License
 
-This plugin is provided as-is for implementing Barion Pixel on WooCommerce sites.
+This plugin is provided as-is for implementing Full Barion Pixel for WooCommerce sites.
 Use at your own risk and always test thoroughly before deploying to production.
